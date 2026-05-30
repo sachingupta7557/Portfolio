@@ -60,7 +60,7 @@ function toggleMenu() {
 }
 
 function openResume() {
-    window.open("https://drive.google.com/file/d/1Keus5Zmrjf_jcTtZLQ2QAMhvdd2VDImW/view?usp=drive_link", "_blank");
+    window.open("https://drive.google.com/file/d/14tzu4jdrrziSNwgrretQL4KY6NclbSDT/view?usp=drive_link", "_blank");
 }
 
 const revealObserver = new IntersectionObserver((entries) => {
