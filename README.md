@@ -7,7 +7,7 @@ A modern, responsive personal portfolio website built with HTML, CSS, and JavaSc
 Add your deployed site link here:
 
 ```text
-https://your-portfolio-link.com
+https://sachin-07-portfolio.netlify.app/
 ```
 
 ## Features
