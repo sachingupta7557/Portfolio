@@ -83,7 +83,8 @@ export default function Home() {
   };
 
   const openResume = () => {
-    window.open("https://drive.google.com/file/d/1ICNordqNcG67saeOVIYZwLfMTTrugv6D/view?usp=sharing", "_blank");
+    // window.open("https://drive.google.com/file/d/1ICNordqNcG67saeOVIYZwLfMTTrugv6D/view?usp=sharing", "_blank");
+     window.open("https://drive.google.com/file/d/1ICNordqNcG67saeOVIYZwLfMTTrugv6D/view?usp=sharing", "_blank");
   };
 
   const techStack = [
