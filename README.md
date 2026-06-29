@@ -6,7 +6,7 @@ A modern, high-performance, and visually stunning personal portfolio built with 
 
 Here is the live preview of the site:
 ```text
-https://sachin-07-portfolio.netlify.app/
+https://sachin-07.netlify.app/
 ```
 
 ## Features
